@@ -77,12 +77,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <table>
         <thead>
             <tr>
-                     <th>NOME</th>
-            <th>E-MAIL</th>
-            <th>CPF</th>
-            <th>SENHA</th>
-            <th></th>
-            <th></th> 
+                <th>NOME</th>
+                <th>E-MAIL</th>
+                <th>CPF</th>
+                <th>SENHA</th>
+                <th></th>
+                <th></th> 
             </tr>
                  </thead>
         <tbody>
